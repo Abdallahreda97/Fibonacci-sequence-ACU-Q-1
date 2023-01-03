@@ -3,8 +3,7 @@
 nterms = int(input("How many terms? "))
 
 # first two terms
-sdfssdfgs
-count = 0
+lkhhuffxfxfch
 
 # the new ft
 # check if the number of terms is valid
